@@ -5,8 +5,6 @@
   "main": "index.js",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^5.1.0",
-    "ip": "^2.0.1",
-    "ip-range-check": "^0.2.0"
+    "express": "^5.1.0"
   }
 }
