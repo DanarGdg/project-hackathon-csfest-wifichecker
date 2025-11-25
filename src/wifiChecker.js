@@ -1,4 +1,3 @@
-// src/wifiChecker.js
 import { execSync } from "child_process";
 
 export function getConnectedWifiSSID() {
